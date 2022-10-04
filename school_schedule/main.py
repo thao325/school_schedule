@@ -17,7 +17,7 @@ claire = HighSchoolStudent(
             )
 #Second instance
 quinn= HighSchoolStudent(
-                "Quin", 
+                "Quinn", 
                 "sophmore", 
                 [
                     "Geometry", 
