@@ -15,7 +15,7 @@ claire = HighSchoolStudent(
                 has_parking_privileges=True,
                 clubs=["Algorithms Club"]
             )
-# First instance
+#Second instance
 quinn= HighSchoolStudent(
                 "Quin", 
                 "sophmore", 
